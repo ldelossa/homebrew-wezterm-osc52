@@ -1,7 +1,7 @@
 cask "wezterm-osc52" do
-  version "20260817-214222-d4484e3a-osc52.17"
-  # Upstream WezTerm commit: e70244973c188d23fd3cec1b84013361af97da6d
-  sha256 "d239ecd17657cd25c2fd5668ddbe0b60227f85980f05a780566b0cb31d09c0b3"
+  version "20260828-052523-2f064e66-osc52.18"
+  # Upstream WezTerm commit: 08e50ca2cd7d28542b590167dc8e97bd8c1dc025
+  sha256 "3e6a3c83b2a88c6fafe1c376b9c9e776e531eab75d23fa9a54424637b995c118"
 
   url "https://github.com/ldelossa/wezterm-osc52/releases/download/#{version}/WezTerm-macos-#{version}.zip"
   name "WezTerm"
