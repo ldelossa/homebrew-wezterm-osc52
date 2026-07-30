@@ -11,7 +11,7 @@ cask "wezterm-osc52" do
     "wezterm",
     "wezterm@nightly",
   ]
-  depends_on :macos
+  depends_on macos: :big_sur
 
   app "WezTerm.app"
   binary "#{appdir}/WezTerm.app/Contents/MacOS/wezterm"
