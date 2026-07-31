@@ -1,6 +1,6 @@
 cask "wezterm-osc52" do
-  version "20260730-164329-18413e3f-osc52.1"
-  sha256 "cf80a27fe971d3b0d3d26de9e99c50b562901c3c6b0e81f0ff6557479f2a3c90"
+  version "20260731-200639-0cf235d1-osc52.2"
+  sha256 "90707d3c00249ee29b5e01029e57b761e2cf1ebbb16836f1bc85c143c1101db0"
 
   url "https://github.com/ldelossa/wezterm-osc52/releases/download/#{version}/WezTerm-macos-#{version}.zip"
   name "WezTerm"
